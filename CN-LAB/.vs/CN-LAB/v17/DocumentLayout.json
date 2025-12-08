@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER 5\\CN LAB\\CN-LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFB29D6-C48E-4F33-BB1B-6E2AF097F97D}|CN-LAB\\CN-LAB.vcxproj|D:\\SEMESTER 5\\CN LAB\\CN-LAB\\CN-LAB\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDFB29D6-C48E-4F33-BB1B-6E2AF097F97D}|CN-LAB\\CN-LAB.vcxproj|solutionrelative:CN-LAB\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFB29D6-C48E-4F33-BB1B-6E2AF097F97D}|CN-LAB\\CN-LAB.vcxproj|D:\\SEMESTER 5\\CN LAB\\CN-LAB\\CN-LAB\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDFB29D6-C48E-4F33-BB1B-6E2AF097F97D}|CN-LAB\\CN-LAB.vcxproj|solutionrelative:CN-LAB\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.cpp",
+              "DocumentMoniker": "D:\\SEMESTER 5\\CN LAB\\CN-LAB\\CN-LAB\\server.cpp",
+              "RelativeDocumentMoniker": "CN-LAB\\server.cpp",
+              "ToolTip": "D:\\SEMESTER 5\\CN LAB\\CN-LAB\\CN-LAB\\server.cpp",
+              "RelativeToolTip": "CN-LAB\\server.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T20:46:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client.cpp",
+              "DocumentMoniker": "D:\\SEMESTER 5\\CN LAB\\CN-LAB\\CN-LAB\\client.cpp",
+              "RelativeDocumentMoniker": "CN-LAB\\client.cpp",
+              "ToolTip": "D:\\SEMESTER 5\\CN LAB\\CN-LAB\\CN-LAB\\client.cpp",
+              "RelativeToolTip": "CN-LAB\\client.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAABgCAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T20:46:15.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
